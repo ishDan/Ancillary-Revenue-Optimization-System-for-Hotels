@@ -1,10 +1,11 @@
 # 📊 Ancillary Revenue Optimization System for Hotels
 
-<img width="600" height="264" alt="propensity-chart" src="https://github.com/user-attachments/assets/5e1f1107-1c3c-4d90-99e8-baf964d5c83c" />
-
-
 Hotels often miss opportunities to upsell room upgrades and services due to lack of real-time customer insights.  
 This project builds a predictive system to identify guests most likely to purchase upgrades.
+
+
+
+<img width="600" height="264" alt="propensity-chart" src="https://github.com/user-attachments/assets/5e1f1107-1c3c-4d90-99e8-baf964d5c83c" />
 
 ---
 
